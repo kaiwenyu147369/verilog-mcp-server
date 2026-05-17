@@ -1,6 +1,6 @@
 # Verilog MCP Server
 
-![Demo](./assets/demo.gif)
+![Demo](./demo.gif)
 
 AI-powered Verilog / SystemVerilog development tools for Claude Code. Generate testbenches, lint RTL code, and scaffold UVM verification environments — all from within your editor.
 
