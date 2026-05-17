@@ -53,7 +53,7 @@ Generates 10 UVM component files separated by `// ===== FILE: filename.sv =====`
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/verilog-mcp-server.git
+git clone https://github.com/kaiwenyu147369/verilog-mcp-server.git
 cd verilog-mcp-server
 
 # 2. Create virtual environment
